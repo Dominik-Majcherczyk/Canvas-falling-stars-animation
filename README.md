@@ -2,7 +2,7 @@
 
 1.  Clone the repo:
 
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
+        git clone https://github.com/Dominik-Majcherczyk/Canvas-falling-stars-animation.git
 
 2.  Install dependencies:
 
